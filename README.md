@@ -13,7 +13,7 @@ La tabla de habilidades se genera automáticamente desde un array de datos media
 Se implementó un contador sencillo usando localStorage que aumenta cada vez que se accede a la página desde el mismo navegador, simulando el conteo de visitas.
 
 5. Animaciones dinámicas
-Las tarjetas de películas cambian de imagen al pasar el mouse por encima, añadiendo dinamismo visual. Además, la tabla de habilidades tiene un efecto de resalte cuando el usuario pasa el cursor sobre las filas.
+Las tarjetas de películas cambian de imagen al pasar el mouse por encima, añadiendo dinamismo visual. Además, la tabla de habilidades tiene un efecto de resalte cuando el usuario pasa el cursor sobre las filas. También, las secciones del sitio se revelan progresivamente a medida que el usuario hace scroll por primera vez, generando una experiencia más fluida y atractiva.
 
 Mejoras y cambios en el diseño y el código
 - Se agregó un logo pequeño en la barra de navegación para reforzar la identidad visual, el cual aparece cuando el header no esta a la vista.
